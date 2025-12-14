@@ -1,4 +1,4 @@
-<p align="center"><font size="1"><b>gnote</b></font></p>
+<p align="center"><font size="7"><b>gnote</b></font></p>
 <p align="center">中文 | <a href="wiki/README.en.md">[English]</a> | <a href="wiki/README.en.md">[Español]</a> | <a href="wiki/README.en.md">[اللغة العربية]</a> | <a href="wiki/README.en.md">[Português]</a> | <a href="wiki/README.en.md">[Русский язык]</a>| <a href="wiki/README.en.md">[हिन्दी]</a> | <a href="wiki/README.en.md">[日本語]</a></p>
 
 ## 概述
